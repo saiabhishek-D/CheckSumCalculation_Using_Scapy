@@ -1,4 +1,4 @@
-# Checksum Validation – Method 3 (Scapy)
+# Checksum Validation – Using Scapy
 
 This repository contains:
 - `checksum_capture2.pcapng` – Packet capture file
