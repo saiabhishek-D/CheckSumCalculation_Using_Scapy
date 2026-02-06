@@ -1,2 +1,8 @@
-# CheckSumCalculation_Using_Scapy
-Checksum validation using Wireshark and Scapy. Includes a packet capture file and a Python script to recalculate and verify checksum values for IPv4, ICMP, TCP, and UDP packets.
+# Checksum Validation – Method 3 (Scapy)
+
+This repository contains:
+- `checksum_capture2.pcapng` – Packet capture file
+- `checksum_scapy_all.py` – Scapy script to validate checksums
+
+Run:
+python checksum_scapy_all.py
